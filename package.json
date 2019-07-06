@@ -1,0 +1,23 @@
+{
+  "name": "history",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miracle9312/history.git"
+  },
+  "keywords": [
+    "redo",
+    "undo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miracle9312/history/issues"
+  },
+  "homepage": "https://github.com/miracle9312/history#readme"
+}
